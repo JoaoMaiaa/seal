@@ -1,1 +1,2 @@
-# seal
+# Seal
+Times when I didn't know bootstrap 4!
